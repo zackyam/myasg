@@ -1,0 +1,60 @@
+1602122834842	geckodriver	INFO	Listening on 127.0.0.1:60803
+1602122834851	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaiRdsc"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602122835973	Marionette	INFO	Listening on port 33363
+1602122836058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602122855694	Marionette	INFO	Stopped listening on port 33363
+1602123111370	geckodriver	INFO	Listening on 127.0.0.1:50877
+1602123111375	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBXLDbJ"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602123112545	Marionette	INFO	Listening on port 39937
+1602123112579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602123158905	Marionette	INFO	Stopped listening on port 39937
+1602123219842	geckodriver	INFO	Listening on 127.0.0.1:57201
+1602123219847	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRzpksO"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602123221051	Marionette	INFO	Listening on port 34879
+1602123221064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/English/js/global.js, line 1771: unreachable code after return statement
+1602123284893	geckodriver	INFO	Listening on 127.0.0.1:44345
+1602123284902	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI6Ygkm"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602123286114	Marionette	INFO	Listening on port 40247
+1602123286209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602123308566	Marionette	INFO	Stopped listening on port 40247
+1602123344366	geckodriver	INFO	Listening on 127.0.0.1:50185
+1602123344371	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNLRAAu"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602123345568	Marionette	INFO	Listening on port 35717
+1602123345577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602123462216	geckodriver	INFO	Listening on 127.0.0.1:37585
+1602123462226	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqd0OUX"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602123463471	Marionette	INFO	Listening on port 36271
+1602123463529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/English/js/global.js, line 1771: unreachable code after return statement
+1602123513915	Marionette	INFO	Stopped listening on port 36271
+1602123607024	geckodriver	INFO	Listening on 127.0.0.1:42769
+1602123607031	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWtMvDR"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602123608222	Marionette	INFO	Listening on port 40651
+1602123608265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602123630805	Marionette	INFO	Stopped listening on port 40651
+1602123733906	geckodriver	INFO	Listening on 127.0.0.1:39163
+1602123733912	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6PvOFq"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602123735072	Marionette	INFO	Listening on port 36199
+1602123735115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/English/js/global.js, line 1771: unreachable code after return statement
+1602123799770	Marionette	INFO	Stopped listening on port 36199
