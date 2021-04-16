@@ -1,0 +1,4 @@
+There are 10000 samples and 10 number of features
+
+The scores for all clusters are similar, there is no specific best number of clusters.
+These may caused by the fact that in the image set, the number are similar and not clearly separated.

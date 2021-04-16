@@ -1,0 +1,2 @@
+In the pov.jpg we can see that when the 100th eigenvalues is included, the pov is greater than 0.9. In that case, that we should preserve 100 dimensions in order to explain at least 90% of the variance.
+ 

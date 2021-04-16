@@ -1,0 +1,6 @@
+The best number of clusters is:  5
+All 4 socres are the highest among all clusters 
+As we loop the centers for 1000 times for 000 data, we will get close to the true centers
+The ARI and v-measure score are close to 0.9, which our prediction is very close to the true clusters.
+The MRI score also highest at 1.4
+the silhouette coefficient was highest when k = 5, suggesting 5 is the optimal number of clusters. 
